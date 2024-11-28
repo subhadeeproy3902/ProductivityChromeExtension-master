@@ -1,10 +1,10 @@
 # Be Productive Chrome Extension
 
-A simple Pomodoro timer Chrome extension to boost your productivity using the popular 25/5 minute work/break cycle.
+A simple Pomodoro timer Chrome extension to boost your productivity using the popular 1/5 minute work/break cycle.
 
 ## Features
 
-- 25-minute work timer
+- 1-minute work timer
 - 5-minute break timer
 - Browser notifications for timer completion
 - Track daily completed Pomodoro sessions
@@ -22,7 +22,7 @@ A simple Pomodoro timer Chrome extension to boost your productivity using the po
 
 1. Click the extension icon in your Chrome toolbar to open the timer
 2. Click "Start" to begin a work session (25 minutes)
-3. When the work session ends, you'll receive a notification
+3. When the work session ends, you'll receive a notification (Keep your chrome notifications onn)
 4. Take a 5-minute break
 5. Repeat the cycle!
 6. Add tasks if u would like to.
